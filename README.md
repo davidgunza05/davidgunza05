@@ -39,6 +39,5 @@
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div><br/>
