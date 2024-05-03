@@ -3,7 +3,8 @@
 
 - Aprendizado nunca para 🚀
 
-- 👨‍💻 Confira meu portfólio pessoal: Portfólio
+- 👨‍💻 Programação não é para os fracos. Desista!
+- 0.1% melhor que ontem
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
