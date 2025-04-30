@@ -9,7 +9,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/david-gunza-650734295/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:davidgunza05@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:davidgunza5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Tecnologias:</h3>
@@ -25,6 +25,7 @@
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
+**React Native** | **React.js** | **Socket.IO** | **Firebase**
 
 <h3 align="left">Base de Dados :</h3>
 <div align="left">
